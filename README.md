@@ -1,3 +1,3 @@
-# Script
+#P Script
 
 Pascal scripts.
